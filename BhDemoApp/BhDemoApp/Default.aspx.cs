@@ -12,5 +12,20 @@ namespace BhDemoApp
         protected void Page_Load(object sender, EventArgs e)
         {
         }
+
+        protected void createButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void enterButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void checkButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
