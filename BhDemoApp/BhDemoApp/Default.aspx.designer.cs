@@ -22,15 +22,6 @@ namespace BhDemoApp {
         protected global::System.Web.UI.HtmlControls.HtmlInputText inputVehicleName;
         
         /// <summary>
-        /// RequiredFieldValidator1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
-        
-        /// <summary>
         /// inputRegNo control.
         /// </summary>
         /// <remarks>
@@ -40,22 +31,13 @@ namespace BhDemoApp {
         protected global::System.Web.UI.HtmlControls.HtmlInputText inputRegNo;
         
         /// <summary>
-        /// CompareValidator1 control.
+        /// carAddLabel control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CompareValidator CompareValidator1;
-        
-        /// <summary>
-        /// RequiredFieldValidator2 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
+        protected global::System.Web.UI.WebControls.Label carAddLabel;
         
         /// <summary>
         /// createButton control.
@@ -76,22 +58,13 @@ namespace BhDemoApp {
         protected global::System.Web.UI.HtmlControls.HtmlInputText inputSpeed;
         
         /// <summary>
-        /// CompareValidator2 control.
+        /// speedLabel control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CompareValidator CompareValidator2;
-        
-        /// <summary>
-        /// RequiredFieldValidator3 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator3;
+        protected global::System.Web.UI.WebControls.Label speedLabel;
         
         /// <summary>
         /// enterButton control.
